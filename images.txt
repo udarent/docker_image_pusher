@@ -6,3 +6,5 @@ sliamb/caddy:latest
 docker.io/jc21/nginx-proxy-manager:latest
 nginx:latest
 docmost/docmost:latest
+postgres:16-alpine
+redis:7.2-alpine
