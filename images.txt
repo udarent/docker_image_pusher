@@ -5,5 +5,4 @@ sigoden/dufs
 sliamb/caddy:latest
 docker.io/jc21/nginx-proxy-manager:latest
 nginx:latest
-gitlab/gitlab-ce:14.10.2-ce.0
-gitlab/gitlab-runner:latest
+docmost/docmost:latest
