@@ -8,3 +8,4 @@ nginx:latest
 docmost/docmost:latest
 postgres:16-alpine
 redis:7.2-alpine
+rustdesk/rustdesk-server:latest
