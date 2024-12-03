@@ -12,3 +12,4 @@ rustdesk/rustdesk-server:latest
 kuingsmile/piclist:latest
 linuxserver/mariadb
 linuxserver/bookstack
+ghcr.io/sameersbn/redmine:6.0.1-2
