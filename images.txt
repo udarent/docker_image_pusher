@@ -14,3 +14,4 @@ linuxserver/mariadb
 linuxserver/bookstack
 ghcr.io/sameersbn/redmine:6.0.1-2
 xhofe/alist-aria2:v3.41.0
+squidfunk/mkdocs-material:9
