@@ -16,3 +16,6 @@ linuxserver/bookstack
 ghcr.io/sameersbn/redmine:6.0.1-2
 xhofe/alist-aria2:v3.41.0
 squidfunk/mkdocs-material:9
+gitea/runner-images:ubuntu-latest
+gitea/runner-images:ubuntu-22.04
+gitea/runner-images:ubuntu-20.04
