@@ -6,7 +6,6 @@ sigoden/dufs
 sliamb/caddy:latest
 docker.io/jc21/nginx-proxy-manager:latest
 nginx:latest
-docmost/docmost:latest
 postgres:16-alpine
 redis:7.2-alpine
 rustdesk/rustdesk-server:latest
@@ -19,3 +18,4 @@ squidfunk/mkdocs-material:9
 gitea/runner-images:ubuntu-latest
 gitea/runner-images:ubuntu-22.04
 gitea/runner-images:ubuntu-20.04
+docmost/docmost:latest
