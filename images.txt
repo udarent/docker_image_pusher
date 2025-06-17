@@ -1,4 +1,4 @@
-gitea/gitea:1.23.0-rootless
+gitea/gitea:1.24.0-rootless
 gitea/act_runner:latest
 postgres:14
 gdy666/lucky
