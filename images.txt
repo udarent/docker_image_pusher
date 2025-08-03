@@ -20,4 +20,4 @@ gitea/runner-images:ubuntu-22.04
 gitea/runner-images:ubuntu-20.04
 docmost/docmost:latest
 ghcr.io/go-shiori/shiori:latest
-triliumnext/notes:v0.97.2
+triliumnext/trilium:v0.97.2
