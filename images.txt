@@ -1,1 +1,1 @@
-arm64v8/ubuntu:jammy-20250730
+arm64v8/ubuntu:noble
