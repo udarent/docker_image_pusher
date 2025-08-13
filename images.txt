@@ -1,1 +1,1 @@
-arm64v8/ubuntu:22.04
+arm64v8/ubuntu:jammy-20250730
