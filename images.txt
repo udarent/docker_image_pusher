@@ -1,2 +1,2 @@
 arm64v8/ubuntu:noble
-ghcr.io/teableio/teable:latest
+teableio/teable:latest
