@@ -1,2 +1,3 @@
 arm64v8/ubuntu:noble
-teableio/teable:latest
+lscr.io/linuxserver/bookstack:version-v25.02
+lscr.io/linuxserver/mariadb:11.4.4
