@@ -1,4 +1,4 @@
-apkdv/siyuan-unlock:v3.4.0
+apkdv/siyuan-unlock:v3.5.4
 ghcr.io/sameersbn/redmine:5.1.8
 ghcr.io/sameersbn/redmine:5.1.10
 ghcr.io/sameersbn/redmine:6.1.0
