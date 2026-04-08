@@ -1,5 +1,5 @@
 gitea/gitea:1.25.4-rootless
-apkdv/siyuan-unlock:v3.6.4
+apkdv/siyuan-unlock:v3.6.3
 ghcr.io/sameersbn/redmine:5.1.8
 ghcr.io/sameersbn/redmine:5.1.10
 ghcr.io/sameersbn/redmine:6.1.0
