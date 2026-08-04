@@ -5,5 +5,5 @@ apkdv/siyuan-unlock:v3.6.5
 ghcr.io/sameersbn/redmine:5.1.8
 ghcr.io/sameersbn/redmine:5.1.10
 ghcr.io/sameersbn/redmine:6.1.0
-ghcr.io/sameersbn/postgresql:14-20230628
+ghcr.io/sameersbn/postgresql:15
 nobbe/ignis:latest
